@@ -1,0 +1,65 @@
+﻿[
+  {
+    "id": "1",
+    "name": "Apache Spark",
+    "developer": "Apache Software Foundation",
+    "description": "Apache Spark ist ein Framework für Cluster Computing, das im Rahmen eines Forschungsprojekts am AMPLab der University of California in Berkeley entstand und seit 2010 unter einer Open-Source-Lizenz öffentlich verfügbar ist.",
+    "architecture_component": "Data Access Layer",
+    "features": ["Real Time Streaming", "Machine Learning"],
+    "popularity": "4",
+    "last_update": "7/11/20",
+    "os": ["macOs", "Windows", "Linux"],
+    "programming_language": ["java", "python", "scala"],
+    "tags": [
+      "Apache, Spark",
+      "Apache Spark",
+      "Data Access Layer",
+      "Streaming",
+      "Apache Software Foundation"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Neo4j",
+    "developer": "Neo Technology",
+    "description": "Neo4j ist eine in Java implementierte Open-Source-Graphdatenbank. Die Entwickler beschreiben Neo4j als eine eingebettete, Disk-basierte, transaktionale Datenbank-Engine, die Daten anstatt in Tabellen in Graphen strukturiert speichert.",
+    "architecture_component": "Data Storage Layer",
+    "features": ["Easy Querying", "Graph Data Model", "ACID"],
+    "popularity": "2",
+    "last_update": "7/10/20",
+    "os": ["macOs", "Windows", "Linux"],
+    "programming_language": ["java", "scala"],
+    "tags": [
+      "Neo4j",
+      "database",
+      "graph database",
+      "nosql",
+      "easy quering",
+      "Graph Data Model",
+      "ACID"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Microsoft SQL Server",
+    "developer": "Microsoft",
+    "description": "Der Microsoft SQL Server ist ein relationales Datenbankmanagementsystem von Microsoft.",
+    "architecture_component": "Data Storage Layer",
+    "features": ["Easy Querying", "Relational Data Model", "ACID"],
+    "popularity": "2",
+    "last_update": "7/10/20",
+    "os": ["macOs", "Windows", "Linux", "Android"],
+    "programming_language": ["javascript"],
+    "tags": [
+      "Microsoft",
+      "SQL Server",
+      "SQL",
+      "database",
+      "relational database",
+      "sql",
+      "easy quering",
+      "Relational Data Model",
+      "ACID"
+    ]
+  }
+]
